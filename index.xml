@@ -79,6 +79,17 @@ Losing him was blue like I&amp;rsquo;d never known Missing him was dark gray, al
     </item>
     
     <item>
+      <title>Using GitHub Issues as a content management system</title>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/2/</link>
+      <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
+      
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/2/</guid>
+      <description>This project popped up in my Twitter feed this past week, and I&amp;rsquo;m geeking out about it. GH CMS uses slick automation (via GitHub Actions) and built-in, web-based features like Issues and Pages to auto-magically generate a blog-style site.
+Here&amp;rsquo;s what you do to get it up and running:
+ Go to the repo and create your own copy using the button (upper right corner). Go the section of the tab and enable the feature.</description>
+    </item>
+    
+    <item>
       <title>wewewewewewe</title>
       <link>https://oscarnevarezleal.github.io/gh-cms/posts/10/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
